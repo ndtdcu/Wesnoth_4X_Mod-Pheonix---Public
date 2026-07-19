@@ -8,7 +8,7 @@ echo.
 
 set "RW_PATH=C:\Program Files (x86)\Steam\steamapps\common\Rusted Warfare"
 set "MODS_PATH=%RW_PATH%\mods\units"
-set "MOD_OUTPUT_NAME=Wesnoth_4X_Mod-Pheonix1"
+set "MOD_OUTPUT_NAME=Wesnoth_4X_Mod-Pheonix"
 set "ZIP_NAME=Wesnoth_4X_Mod-Pheonix.zip"
 set "TEMP_DIR=temp_extract"
 
